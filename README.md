@@ -68,9 +68,14 @@ The dataset contains product-level information including:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations 📈
 
-## 📈 Visualizations
+### 🔹 Discount vs Sales
+![Discount vs Sales](images/discount_vs_sale.png)
+
+Discount Percentage does not provide guarantee to higher sale or lower sale.
+
+---
 
 ### 🔹 Decision Tree Model
 ![Decision Tree](images/decision_tree.png)
@@ -80,30 +85,9 @@ This model shows that product rating is the most important factor influencing sa
 ---
 
 ### 🔹 Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](images/correlation_heatmap.png)
 
 The heatmap highlights relationships between numerical features, showing how rating and price variables relate to sales performance.
-
----
-
-### 🔹 Rating vs Sales
-![Rating vs Sales](images/rating_vs_sales.png)
-
-Products with higher ratings tend to fall into the high-sales category, confirming the importance of customer satisfaction.
-
----
-
-### 🔹 Discount vs Sales
-![Discount vs Sales](images/discount_vs_sales.png)
-
-Higher discounts can improve the performance of lower-rated products, indicating the impact of promotional strategies.
-
----
-
-### 🔹 Feature Importance
-![Feature Importance](images/feature_importance.png)
-
-The model identifies rating, price, and discount as the most influential features affecting product sales.
 
 ---
 
